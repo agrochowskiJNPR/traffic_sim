@@ -1,7 +1,4 @@
 cat <<EOF >> generate_new_commands_single_rack.py
-
-# This takes the new password as an argument
-
 #!/usr/bin/python
 import sys, getopt
 from aos.sdk.client import Client, ClientError
