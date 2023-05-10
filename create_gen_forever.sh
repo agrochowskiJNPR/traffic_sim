@@ -1,5 +1,4 @@
 cat <<EOF >> generate_forever.sh
-##this takes the first AOS server IP as an argument.
 #!/bin/bash
 
 while true
